@@ -1,0 +1,48 @@
+[
+    {
+        "buyer": {
+            "donald": {
+                "booklist": [
+                    {
+                        "title": "Python For Beginers",
+                        "price": "50",
+                        "quantity": 5
+                    },
+                    {
+                        "title": "Essential English",
+                        "price": "45",
+                        "quantity": 8
+                    },
+                    {
+                        "title": "C++ Fundamentals",
+                        "price": "50",
+                        "quantity": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "buyer": {
+            "Naga": {
+                "booklist": [
+                    {
+                        "title": "Python For Beginers",
+                        "price": "50",
+                        "quantity": 5
+                    },
+                    {
+                        "title": "Essential English",
+                        "price": "45",
+                        "quantity": 10
+                    },
+                    {
+                        "title": "C++ Fundamentals",
+                        "price": "50",
+                        "quantity": 7
+                    }
+                ]
+            }
+        }
+    }
+]

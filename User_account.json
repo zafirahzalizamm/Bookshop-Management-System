@@ -1,0 +1,22 @@
+[
+    {
+        "username": "justin",
+        "password": "bieber",
+        "access": "Admin"
+    },
+    {
+        "username": "selena",
+        "password": "gomez",
+        "access": "Admin"
+    },
+    {
+        "username": "donald",
+        "password": "trump",
+        "access": "Buyer"
+    },
+    {
+        "username": "Naga",
+        "password": "test",
+        "access": "Buyer"
+    }
+]
